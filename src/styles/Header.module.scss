@@ -1,0 +1,35 @@
+.header {    
+    background-color: rgba($color: #fff, $alpha: 0.9);   
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.contacts {
+
+    a {
+        display: block;
+        padding: 4px 0;
+        text-decoration: none;
+        text-align: end;
+        color: black;
+        font-size: 18px;
+        font-weight: 700;
+        transition: all 1s ease;
+
+        &:hover {
+            color: #F0C900;
+        }
+    }
+}
+
+.icon {
+    width: 30px;
+    margin: 0 10px;
+}

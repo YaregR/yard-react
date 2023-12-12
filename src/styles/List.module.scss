@@ -1,0 +1,8 @@
+.list {
+    max-width: 1200px;
+    margin: auto;
+    list-style: none;
+    padding: 25px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
