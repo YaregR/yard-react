@@ -5,84 +5,84 @@
             "number": "001",
             "title": "Візитки",
             "price": 140,
-            "image": "./img/business-card.jpg"
+            "image": "/img/business-card.jpg"
         },
         {
             "id": 2,
             "number": "002",
             "title": "Флаєри",
             "price": 300,
-            "image": "./img/flyer.jpg"
+            "image": "/img/flyer.jpg"
         },
         {
             "id": 3,
             "number": "003",
             "title": "Плакати",
             "price": 40,
-            "image": "./img/poster.jpg"
+            "image": "/img/poster.jpg"
         },
         {
             "id": 4,
             "number": "004",
             "title": "Буклети",
             "price": 550,
-            "image": "./img/buklet.jpg"
+            "image": "/img/buklet.jpg"
         },
         {
             "id": 5,
             "number": "005",
             "title": "Наліпки",
             "price": 240,
-            "image": "./img/stickers.jpg"
+            "image": "/img/stickers.jpg"
         },
         {
             "id": 6,
             "number": "006",
             "title": "Брошури",
             "price": 320,
-            "image": "./img/magazine.jpg"
+            "image": "/img/magazine.jpg"
         },
         {
             "id": 7,
             "number": "007",
             "title": "Бланки",
             "price": 640,
-            "image": "./img/blank.jpg"
+            "image": "/img/blank.jpg"
         },
         {
             "id": 8,
             "number": "008",
             "title": "Блокноти",
             "price": 720,
-            "image": "./img/blocknote.jpg"
+            "image": "/img/blocknote.jpg"
         },
         {
             "id": 9,
             "number": "009",
             "title": "Конверти",
             "price": 540,
-            "image": "./img/envelope.jpg"
+            "image": "/img/envelope.jpg"
         },
         {
             "id": 10,
             "number": "010",
             "title": "Пластикові картки",
             "price": 630,
-            "image": "./img/plasticcard.jpg"
+            "image": "/img/plasticcard.jpg"
         },
         {
             "id": 11,
             "number": "011",
             "title": "Банери",
             "price": 420,
-            "image": "./img/banner.jpg"
+            "image": "/img/banner.jpg"
         },
         {
             "id": 12,
             "number": "012",
             "title": "Таблички",
             "price": 220,
-            "image": "./img/signboard.jpg"
+            "image": "/img/signboard.jpg"
         }
     ]
 }

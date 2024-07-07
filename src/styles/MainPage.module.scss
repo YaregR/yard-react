@@ -1,0 +1,28 @@
+.list {
+    max-width: 1200px;
+    margin: auto;
+    list-style: none;
+    padding: 25px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.item {
+    padding: 14px;
+    font-size: 18px;
+    margin: 8px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.image {
+    width: 100%;
+    object-fit: cover;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
